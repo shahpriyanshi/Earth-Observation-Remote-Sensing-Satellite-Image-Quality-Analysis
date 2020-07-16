@@ -1,4 +1,4 @@
-# Image-Quality-Ananlysis
+# Image-Quality-Analysis
 A machine learning model for determining quality of remote sensing satellite images.
 
 
